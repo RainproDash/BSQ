@@ -19,10 +19,11 @@ Le programme affiche le tableau, avec quelques "." remplacé par « x » pour re
 <p align="center">
   <img src="https://github.com/RainproDash/BSQ/assets/91848714/66f664ce-255c-43d3-9e7e-18802609c668" alt="Image de démonstration">
 </p>
-La deuxième façon d'obtenir une plateau est d'en générer un en fonction de paramètres donnés.  
-Les paramètres sont un nombre, représentant la largeur et la hauteur du plateau, et un motif qui sera répété ligne par ligne le long du plateau.
 
-Le programme affiche le tableau résolu.  
+La deuxième façon d'obtenir une plateau est d'en générer un en fonction de paramètres donnés.  
+Les paramètres sont un nombre, représentant la largeur et la hauteur du plateau, et un motif qui sera répété ligne par ligne le long du plateau.  
+Le programme affiche le tableau résolu.
+
 <p align="center">
   <img src="https://github.com/RainproDash/BSQ/assets/91848714/1ead49e4-0cc4-44c5-902c-4bad2206641b" alt="Image de démonstration">
 </p>
